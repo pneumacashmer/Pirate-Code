@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f629a8be369a6404bbb3c6b3a5355366, type: 3}
+  m_Name: Fire Gem
+  m_EditorClassIdentifier: 
+  gemType: 0
+  gemObject: {fileID: 7994616933522707096, guid: 29cbeb6634ce7bf459a7bad6fe37fcfb, type: 3}
+  gemSprite: {fileID: 21300000, guid: b43d64a7b0e7b4c6f8103de15f321bd4, type: 3}
+  gemShards:
+  - {fileID: 11400000, guid: 9ac784149c1f0cf4b816439d42ee4664, type: 2}
